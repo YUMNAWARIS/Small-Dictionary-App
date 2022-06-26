@@ -1,0 +1,31 @@
+.mainSearch{
+    margin: 30px;
+    padding: 0px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    padding: 5px;
+    border: 1px solid rgb(174, 152, 124);
+}
+
+#prompt{
+    display: block;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    text-justify: distribute;
+}
+
+.uul{
+    list-style: none;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+}
+.uul li{
+    margin: 10px;
+}
